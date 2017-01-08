@@ -1,6 +1,9 @@
 # Conky-Metro-Clock
 Metro Clock script for Conky
 
+## SCREENSHOTS
+![Preview](/preview.png)
+
 ## AUTHORS
 - [satya164](http://satya164.deviantart.com/art/Conky-Metro-Clock-245432929)
 - [wojtekel](http://mojemiejsce-wojtekel.rhcloud.com)
